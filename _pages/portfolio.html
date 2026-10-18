@@ -7,8 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+<p>Projects across electronics, embedded systems, mechanical design, and software. Each page describes my contribution, the design process, and the current result.</p>
 
-{% for post in site.portfolio %}
+{% assign projects = site.portfolio | sort: "order" %}
+{% for post in projects %}
   {% include archive-single.html %}
 {% endfor %}
-

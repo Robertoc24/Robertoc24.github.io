@@ -12,3 +12,6 @@ end
 
 gem 'kramdown'
 gem 'kramdown-parser-gfm'
+
+# Windows needs bundled timezone data for local Jekyll previews.
+gem 'tzinfo-data' if Gem.win_platform?
