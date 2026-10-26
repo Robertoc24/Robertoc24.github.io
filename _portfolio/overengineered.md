@@ -1,6 +1,6 @@
 ---
 title: "OverEngineered: Engineering Sandbox Game"
-excerpt: "Current sole developer of a Roblox engineering sandbox with 40K+ total visits, spanning 3D models, programmable systems, gameplay code, and save-system integration."
+excerpt: "Sole developer of a fork of the Roblox engineering sandbox with 40K+ total visits, spanning 3D models, programmable systems, gameplay code, and save-system integration."
 collection: "portfolio"
 permalink: "/portfolio/overengineered/"
 order: 6
@@ -8,9 +8,9 @@ share: false
 comments: false
 ---
 
-**December 2025–present · Current sole developer · 40K+ total game visits**
+**December 2025–present · Sole developer of a fork · 40K+ total game visits**
 
-OverEngineered is a Roblox engineering sandbox where players combine physical building components and programmable logic to create their own machines and systems. I continue development of the existing open-source game and now develop it independently, working across 3D modeling, gameplay code, interface design, and persistent data.
+OverEngineered is a Roblox engineering sandbox where players combine physical building components and programmable logic to create their own machines and systems. I independently develop a fork that retains the original game's features, working across 3D modeling, gameplay code, interface design, and persistent data.
 
 ## From model to playable component
 
@@ -26,9 +26,9 @@ These features connect mathematical operations, user interaction, and the game's
 
 ## Saving and maintaining player creations
 
-I work on external save-storage integration, save metadata, and migration between storage systems. This includes a non-destructive migration implementation designed to preserve existing data while transferring it, along with updates to backend selection and save handling.
+I work on external save-storage integration, save metadata, and migration between storage systems. The fork supports two databases so that two active forks of the game can share player data. This work also includes a non-destructive migration implementation designed to preserve existing data while transferring it, along with updates to backend selection and save handling.
 
-Maintaining the game also involves debugging player-facing issues and incorporating upstream improvements while preserving contributor credits. The project builds on the work of its original developers and other open-source contributors; my current role covers its continued development across assets and code.
+Maintaining my fork also involves debugging player-facing issues and incorporating upstream improvements while preserving contributor credits. The project builds on the work of its original developers and other open-source contributors; my role covers continued development of the fork across assets and code.
 
 ## Reach and development history
 

@@ -38,7 +38,7 @@ Graduated June 2024
 - **[Dexterous Robotic Hand]({{ '/portfolio/robotic-hand/' | relative_url }}) · February–April 2026:** Fusion 360 assemblies, joint-motion checks, and 3D-printed finger and joint components for an 11-servo hand.
 - **[FPGA PWM Controller]({{ '/portfolio/fpga-pwm/' | relative_url }}) · November 2025:** Next-state logic, count-value block, and seven-segment display decoding on an Intel MAX 10 FPGA.
 - **[Analog Intrusion Alarm]({{ '/portfolio/infrared-alarm/' | relative_url }}) · March–April 2026:** Independent Multisim simulation, circuit debugging, and most of the soldered assembly for a working infrared alarm.
-- **[OverEngineered]({{ '/portfolio/overengineered/' | relative_url }}) · December 2025–present:** Current sole developer of an open-source Roblox engineering sandbox with 40K+ total visits; work spans Blender assets, TypeScript gameplay and logic systems, interfaces, and external save-storage integration.
+- **[OverEngineered]({{ '/portfolio/overengineered/' | relative_url }}) · December 2025–present:** Sole developer of a fork of the open-source Roblox engineering sandbox with 40K+ total visits; work spans Blender assets, TypeScript gameplay and logic systems, interfaces, and external save-storage integration.
 
 See the [portfolio]({{ '/portfolio/' | relative_url }}) for additional simulation and early design work.
 

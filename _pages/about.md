@@ -23,7 +23,7 @@ I'm a first-generation college student and a recipient of Texas A&M's Regents' S
 
 ## What I'm working on
 
-I am the current sole developer of **[OverEngineered]({{ '/portfolio/overengineered/' | relative_url }})**, an open-source Roblox engineering sandbox with over 40,000 total visits. My work spans 3D models, TypeScript code, interfaces, and save-system integration. I'm also exploring **[OverEngineered Toys]({{ '/portfolio/overengineered-toys/' | relative_url }})**, physical building pieces inspired by the game. This work-in-progress project focuses on modular parts for creative building.
+I independently develop a fork of **[OverEngineered]({{ '/portfolio/overengineered/' | relative_url }})**, an open-source Roblox engineering sandbox with over 40,000 total visits. My work spans 3D models, TypeScript code, interfaces, and save-system integration. I'm also exploring **[OverEngineered Toys]({{ '/portfolio/overengineered-toys/' | relative_url }})**, physical building pieces inspired by the game. This work-in-progress project focuses on modular parts for creative building.
 
 Outside project work, I mentor 16 first-year engineering students through [CLEN 181]({{ '/cv/' | relative_url }}#work-experience). I also work seasonally as a self-employed landscape irrigator. Cars and motorsport are long-standing interests.
 
